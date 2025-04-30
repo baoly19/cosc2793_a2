@@ -3,9 +3,10 @@
 
 
 * **Course:** COSC2973 Computational Machine Learning
-* **Instructor:** Prof. Sebastian Sardina
+* **Instructor:** Dr Azadeh Alavi, Dr Pubudu Sanjeevani
 * **Members:**
-
+   - Bao Ly Ngoc Gia (s3634975)
+   - Hoang Vu Nguyen (s4020628)
 The repository contains the development code for the assignment 2 COSC2973 Computational Machine Learning. For this assignment, Task 1: classify the images of colon cancer is the main topic. 
 
  <p align="center">
