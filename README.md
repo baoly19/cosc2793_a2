@@ -24,3 +24,13 @@ Example of project structure:
  <p align="center">
     <img src="assets/project_structure.png" alt="project structure" width="200">
  </p>
+
+ # Full report structure
+ Since the report will be submitted in one Jupyter Notebook only, then the current notebooks are merged in the following order:
+ 
+ 1. data_splitting.ipynb
+ 2. analysis.ipynb
+ 3. cancerous_clf.ipynb
+ 4. cell_type_clf.ipynb
+ 
+ Once the notebooks are merged, the content for **introduction**, **conclusions** and **references** must be added.
