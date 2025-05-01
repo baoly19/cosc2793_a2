@@ -24,3 +24,19 @@ Example of project structure:
  <p align="center">
     <img src="assets/project_structure.png" alt="project structure" width="200">
  </p>
+
+ The given data is divided into the train and test sets and saved into the (./data/test.csv and ./data/train.csv) files. The logic and explanation of the decision can be found in ``data_splitting.ipynb`` file. 
+ The ``./data/train.csv`` file is used to train the classifiers. And the test is used to perform final evaluation. 
+
+ > [!NOTE]
+> These data are not processed (i.e. normalizing, or data augmentation). 
+
+ # Full report structure
+ Since the report will be submitted in one Jupyter Notebook only, then the current notebooks are merged in the following order:
+ 
+ 1. data_splitting.ipynb
+ 2. analysis.ipynb
+ 3. cancerous_clf.ipynb
+ 4. cell_type_clf.ipynb
+ 
+ Once the notebooks are merged, the content for **introduction**, **conclusions** and **references** must be added.
